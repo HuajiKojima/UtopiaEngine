@@ -1,0 +1,3 @@
+LIBRARY UtopiaEngine.dll
+EXPORTS
+ConsolePrint @ 1
